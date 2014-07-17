@@ -3,6 +3,8 @@
 
 Автор статьи: [Максим Соколовский](https://github.com/sokolovsky)
 
+Оригинал: [http://know.worksolutions.ru/articles/324/](http://know.worksolutions.ru/articles/324/)
+
 ## Общая схема работы, взаимодействие репозиторев
 
 ![Deploy scheme](https://raw.githubusercontent.com/DsXack/ws-knowbase/master/Git/Instruction-deploy-scheme.png)

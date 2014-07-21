@@ -9,7 +9,6 @@
 ## [CIBlockElement](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/index.php) - класс для работы с элементами информационных блоков.
 
 Для получения списка элементов ([CIBlockElement::GetList](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/getlist.php)) используется комбинация: `ibelist`
-Код, который она должна возвращать:
 
 ```php
 $dbElement = CIBlockElement::GetList(
@@ -25,7 +24,6 @@ while($arElement = $dbElement->GetNext()){
 ```
 
 Для получения элемента по ID ([CIBlockElement::GetByID](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/getbyid.php)) используется комбинация: `ibeid`
-Код, который она должна возвращать:
 
 ```php
 $dbElement = CIBlockElement::GetByID($ID$);
@@ -35,7 +33,6 @@ if($dbElement = $res->GetNext()){
 ```
 
 Для добавления элемента ([CIBlockElement::Add](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/add.php)) используется комбинация: `ibeadd`
-Код, который она должна возвращать:
 
 ```php
 $el = new CIBlockElement();
@@ -62,7 +59,6 @@ if($ELEMENT_ID = $el->Add($arFields)){
 ```
 
 Для обновления элемента ([CIBlockElement::Update](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/update.php)) используется комбинация: `ibeup`
-Код, который она должна возвращать:
 
 ```php
 $el = new CIBlockElement();
@@ -88,7 +84,6 @@ if($el->Update($PRODUCT_ID, $arFields)){
 ```
 
 Для удаления элемента ([CIBlockElement::Delete](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblockelement/delete.php)) используется комбинация: `ibedel`
-Код, который она должна возвращать:
 
 ```php
 CIBlockElement::Delete($END$);
@@ -97,7 +92,6 @@ CIBlockElement::Delete($END$);
 ## [CIBlockSection](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblocksection/index.php) - класс для работы с секциями (разделами) информационных блоков.
 
 Для получения списка секций ([CIBlockSection::GetList](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblocksection/getlist.php)) используется комбинация: `ibslist`
-Код, который она должна возвращать:
 
 ```php
 $dbSection = CIBlockSection::GetList(
@@ -113,7 +107,6 @@ while($arSection = $dbSection->GetNext()){
 ```
 
 Для получения секции по ID ([CIBlockSection::GetByID](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblocksection/getbyid.php)) используется комбинация: `ibsid`
-Код, который она должна возвращать:
 
 ```php
 $dbSection = CIBlockSection::GetByID($IBLOCK_ID$);
@@ -123,7 +116,6 @@ if($arSection = $dbSection->GetNext()){
 ```
 
 Для добавления секции ([CIBlockSection::Add](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblocksection/add.php)) используется комбинация: `ibsadd`
-Код, который она должна возвращать:
 
 ```php
 $ibs = new CIBlockSection();
@@ -140,7 +132,6 @@ if(!$SECTION_ID) {
 ```
 
 Для обновления секции ([CIBlockSection::Update](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblocksection/update.php)) используется комбинация: `ibsup`
-Код, который она должна возвращать:
 
 ```php
 $ibs = new CIBlockSection();
@@ -157,7 +148,6 @@ if(!$ibs->Update($SECTION_ID, $arFields)){
 ```
 
 Для удаления элемента ([CIBlockSection::Delete](http://dev.1c-bitrix.ru/api_help/iblock/classes/ciblocksection/delete.php)) используется комбинация: `ibsdel`
-Код, который она должна возвращать:
 
 ```php
 CIBlockSection::Delete($END$);
@@ -166,7 +156,6 @@ CIBlockSection::Delete($END$);
 ## Другие шаблоны
 
 Для цикла foreach  по массиву `$arResult['ITEMS']` используется комбинация: `forei`
-Код, который она должна возвращать:
 
 ```php
 <?foreach($arResult["ITEMS"] as $arItem):?>

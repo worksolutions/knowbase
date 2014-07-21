@@ -1,6 +1,10 @@
 Как создавать шаблоны кода
 ==========================
 
+Автор статьи: [Максим Мул](http://dev.1c-bitrix.ru/community/webdev/user/7413/)
+
+Оригинал: [http://know.worksolutions.ru/articles/236/](http://know.worksolutions.ru/articles/236/)
+
 - В верхнем меню переходим по пути File - Settings или жмем CTRL+ALT+S
 - В левой колонке находим пункт Live Templates
 - Выбираем контекст, в котором должен работать шаблон и жмем "плюс"

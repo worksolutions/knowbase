@@ -7,10 +7,15 @@
 
 - [Инструкция по работе с Git](https://github.com/DsXack/ws-knowbase/blob/master/Git/Instruction.md)
 - [Бесплатная книга/онлайн справочник "Про Git"](http://git-scm.com/book/ru)
+- [Интерактивный курс "Пропробуй Git"](https://try.github.io)
 
 ## JavaScript
 
 - [JavaScript Гарден](http://shamansir.github.io/JavaScript-Garden/)
+
+### jQuery
+
+- [Интерактивный курс "Попробуй jQuery"](http://try.jquery.com/)
 
 ## PhpStorm
 

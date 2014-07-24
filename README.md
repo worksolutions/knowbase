@@ -6,6 +6,7 @@
 ## Git
 
 - [Инструкция по работе с Git](https://github.com/DsXack/ws-knowbase/blob/master/Git/Instruction.md)
+- [Бесплатная книга/онлайн справочник "Про Git"](http://git-scm.com/book/ru)
 
 ## JavaScript
 

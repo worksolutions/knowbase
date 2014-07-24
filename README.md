@@ -11,7 +11,6 @@
 ## JavaScript
 
 - [JavaScript Гарден](http://shamansir.github.io/JavaScript-Garden/)
-- [Замыкания в JavaScript](https://github.com/DsXack/ws-knowbase/blob/master/JavaScript/Closures.md)
 
 ## PhpStorm
 

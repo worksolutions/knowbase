@@ -12,6 +12,7 @@
 ## JavaScript
 
 - [JavaScript Гарден](http://shamansir.github.io/JavaScript-Garden/)
+- [Структурированный список JavaScript-библиотек](https://github.com/sorrycc/awesome-javascript)
 
 ### jQuery
 

@@ -25,8 +25,8 @@
 - [Шаблоны кода для работы с 1С-Битрикс](https://github.com/DsXack/ws-knowbase/blob/master/PhpStorm/Bitrix-templates.md)
 
 ## Php
-- [Функционал по работе с массивами](https://github.com/petrgrishin/array-access)
-- [Функционал по работе с валидацией](https://github.com/sokolovsky/Verifier)
+- [Работа с массивами](https://github.com/petrgrishin/array-access)
+- [Валидация полей](https://github.com/sokolovsky/Verifier)
 
 ## Проектирование
 

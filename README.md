@@ -24,6 +24,10 @@
 - [Как создавать шаблоны кода](https://github.com/DsXack/ws-knowbase/blob/master/PhpStorm/How-create-templates.md)
 - [Шаблоны кода для работы с 1С-Битрикс](https://github.com/DsXack/ws-knowbase/blob/master/PhpStorm/Bitrix-templates.md)
 
+## Php
+- [Работа с массивами](https://github.com/petrgrishin/array-access)
+- [Валидация полей](https://github.com/sokolovsky/Verifier)
+
 ## Проектирование
 
 - [Где реализовать знание об адресах контроллера?](http://habrahabr.ru/post/226237/)

@@ -7,7 +7,7 @@
 
 ## Общая схема работы, взаимодействие репозиторев
 
-![Deploy scheme](https://raw.githubusercontent.com/DsXack/ws-knowbase/master/Git/Instruction-deploy-scheme.png)
+![Deploy scheme](deploy-scheme.png)
 
 ## Выполнение команд
 

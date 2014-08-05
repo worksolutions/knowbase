@@ -26,3 +26,6 @@
 
 ## Проектирование
 - [Где реализовать знание об адресах контроллера?](http://habrahabr.ru/post/226237/)
+
+## Bitrix
+- [Свойство "Привязка к разделам инфоблока в новом окне"](articles/bitrix/property-link-to-section-information-block-in-a-new-window/README.md)

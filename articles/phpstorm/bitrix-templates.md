@@ -1,9 +1,7 @@
 Шаблоны кода для работы с 1С-Битрикс
 ====================================
 
-Автор статьи: [Максим Мул](http://dev.1c-bitrix.ru/community/webdev/user/7413/)
-
-Оригинал: [http://know.worksolutions.ru/articles/235/](http://know.worksolutions.ru/articles/235/)
+Автор статьи: [Максим Мул](https://github.com/amorfis-ws)
 
 Для работы в команде используется единая среда разработки PHP Storm, которая позволяет настроить шаблоны кода.
 

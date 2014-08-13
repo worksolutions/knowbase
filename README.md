@@ -37,4 +37,5 @@
 - [Подключение DoctrineORM к ZF2](http://marco-pivetta.com/doctrine-orm-zf2-tutorial/) - презентация
 
 ## Linux
+- [Advanced Bash-Scripting Guide](http://www.opennet.ru/docs/RUS/bash_scripting_guide/) - подробный мануал по использованию командной строки linux, а так же написание собственных сценариев
 - [Командная строка Linux](articles/linux/shell.md)

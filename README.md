@@ -35,3 +35,6 @@
 
 ## Zend Framework 2
 - [Подключение DoctrineORM к ZF2](http://marco-pivetta.com/doctrine-orm-zf2-tutorial/) - презентация
+
+## Linux
+- [Командная строка Linux](articles/linux/shell.md)

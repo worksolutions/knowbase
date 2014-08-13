@@ -12,6 +12,7 @@
 - [Эффективное использование PhpStorm](https://docs.google.com/presentation/d/1jWt3zD64y-HjEJUDtnCJz8f7npZIE8JZ0Dj-arTS9Ks/edit#slide=id.g180ed61f7_0139) - презентация-обзор возможностей PhpStorm (mac)
 - [Как создавать шаблоны кода](articles/phpstorm/how-create-templates/README.md)
 - [Шаблоны кода для работы с 1С-Битрикс](articles/phpstorm/bitrix-templates.md)
+- [Прохождение PHPUnit тестов на удаленном сервере через SSH c PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Running+PHPUnit+tests+over+SSH+on+a+remote+server+with+PhpStorm)
 
 ## JavaScript
 - [JavaScript Гарден](http://shamansir.github.io/JavaScript-Garden/) - документация по самым заковыристым темам языка JavaScript

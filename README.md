@@ -21,6 +21,7 @@
 - [Шаблоны кода для работы с 1С-Битрикс](articles/phpstorm/bitrix-templates.md)
 
 ## Php
+- [Composer](http://habrahabr.ru/post/145946/) - менеджер зависимостей для PHP
 - [PetrGrishin/Array-Access](https://github.com/petrgrishin/array-access) - Работа с массивами в объектно-ориентированном стиле
 - [Sokolovsky/Verifier](https://github.com/sokolovsky/Verifier) - Валидация полей в объектно-ориентированном стиле
 

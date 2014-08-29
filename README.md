@@ -33,6 +33,7 @@
 
 ## 1С-Битрикс
 - [Свойство "Привязка к разделам инфоблока в новом окне"](articles/bitrix/property-link-to-section-information-block-in-a-new-window/README.md)
+- [Инструкция по использованию модуля миграций](articles/bitrix/bitrix-module-migrations/README.md)
 
 ## Zend Framework 2
 - [Подключение DoctrineORM к ZF2](http://marco-pivetta.com/doctrine-orm-zf2-tutorial/) - презентация

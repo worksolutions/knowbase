@@ -3,6 +3,11 @@
 
 Сборник статей компании "Рабочие решения". 
 
+## Работа с базой знаний
+
+- [Инструкция](articles/instruction/README.md)
+- [Форматироапние текста](https://ru.wikipedia.org/wiki/Markdown)
+
 ## Git
 - [Инструкция по работе с Git](articles/git/instruction/README.md)
 - [Scott Chacon - Pro Git (ru)](http://git-scm.com/book/ru) - бесплатная книга про Git
@@ -30,6 +35,10 @@
 
 ## Проектирование
 - [Где реализовать знание об адресах контроллера?](http://habrahabr.ru/post/226237/)
+
+## Тестирование
+- [Работа с инструментом управления браузерами Selenium IDE](http://selenium2.ru/docs/selenium-ide.html)
+- [Приемы проектирования тестов](http://selenium2.ru/docs/test-design-considerations.html)
 
 ## 1С-Битрикс
 - [Модуль миграций](articles/bitrix/bitrix-module-migrations/README.md)

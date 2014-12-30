@@ -4,6 +4,7 @@
 Сборник статей компании "Рабочие решения". 
 
 - [Работа с базой знаний](https://github.com/DsXack/knowbase#user-content-Работа-с-базой-знаний)
+	- [Форматирование текста](https://github.com/DsXack/knowbase#user-content-Форматирование-текста)
 - [Git](https://github.com/DsXack/knowbase#git)
 - [PhpStorm](https://github.com/DsXack/knowbase#phpstorm)
 - [JavaScript](https://github.com/DsXack/knowbase#javascript)

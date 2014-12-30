@@ -3,10 +3,27 @@
 
 Сборник статей компании "Рабочие решения". 
 
+- [Работа с базой знаний](https://github.com/DsXack/knowbase#user-content-Работа-с-базой-знаний)
+	- [Форматирование текста](https://github.com/DsXack/knowbase#user-content-Форматирование-текста)
+- [Git](https://github.com/DsXack/knowbase#git)
+- [PhpStorm](https://github.com/DsXack/knowbase#phpstorm)
+- [JavaScript](https://github.com/DsXack/knowbase#javascript)
+	- [jQuery](https://github.com/DsXack/knowbase#jquery)
+- [Php](https://github.com/DsXack/knowbase#php)
+- [Проектирование](https://github.com/DsXack/knowbase#user-content-Проектирование)
+- [1С-Битрикс](https://github.com/DsXack/knowbase#user-content-1С-Битрикс)
+- [Zend Framework 2](https://github.com/DsXack/knowbase#zend-framework-2)
+- [Linux](https://github.com/DsXack/knowbase#linux)
+
 ## Работа с базой знаний
 
 - [Инструкция](CONTRIBUTING.md)
-- [Форматироапние текста](https://ru.wikipedia.org/wiki/Markdown)
+
+	### Форматирование текста
+	- [Markdown (википедия)](https://ru.wikipedia.org/wiki/Markdown)
+	- [Markdown Basics](https://help.github.com/articles/markdown-basics/)
+	- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+	- [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
 
 ## Git
 - [Инструкция по работе с Git](articles/Git/Инструкция/README.md)

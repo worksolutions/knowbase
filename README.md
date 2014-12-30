@@ -5,7 +5,7 @@
 
 ## Работа с базой знаний
 
-- [Инструкция](articles/CONTRIBUTING.md)
+- [Инструкция](CONTRIBUTING.md)
 - [Форматироапние текста](https://ru.wikipedia.org/wiki/Markdown)
 
 ## Git

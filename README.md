@@ -17,7 +17,12 @@
 ## Работа с базой знаний
 
 - [Инструкция](CONTRIBUTING.md)
-- [Форматироапние текста](https://ru.wikipedia.org/wiki/Markdown)
+
+	### Форматирование текста
+	- [Markdown (википедия)](https://ru.wikipedia.org/wiki/Markdown)
+	- [Markdown Basics](https://help.github.com/articles/markdown-basics/)
+	- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+	- [Writing on GitHub](https://help.github.com/articles/writing-on-github/)
 
 ## Git
 - [Инструкция по работе с Git](articles/Git/Инструкция/README.md)

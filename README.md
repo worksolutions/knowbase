@@ -5,7 +5,7 @@
 
 ## Работа с базой знаний
 
-- [Инструкция](articles/instruction/README.md)
+- [Инструкция](articles/CONTRIBUTING.md)
 - [Форматироапние текста](https://ru.wikipedia.org/wiki/Markdown)
 
 ## Git

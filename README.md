@@ -59,6 +59,7 @@
 
 ## 1С-Битрикс
 - [Модуль миграций](articles/Bitrix/Модуль миграций/README.md)
+- [WS Tools](https://github.com/worksolutions/bitrix-module-tools/) - набор инструментов поддержки проектов
 - [Свойство "Привязка к разделам инфоблока в новом окне"](articles/Bitrix/Свойство - привязка к разделам инфоблока в новом окне/README.md)
 
 ## Zend Framework 2

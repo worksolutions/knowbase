@@ -3,17 +3,17 @@
 
 Сборник статей компании "Рабочие решения". 
 
-- [Работа с базой знаний](knowbase#user-content-Работа-с-базой-знаний)
-	- [Форматирование текста](knowbase#user-content-Форматирование-текста)
-- [Git](knowbase#git)
-- [PhpStorm](knowbase#phpstorm)
-- [JavaScript](knowbase#javascript)
-	- [jQuery](knowbase#jquery)
-- [Php](knowbase#php)
-- [Проектирование](knowbase#user-content-Проектирование)
-- [1С-Битрикс](knowbase#user-content-1С-Битрикс)
-- [Zend Framework 2](knowbase#zend-framework-2)
-- [Linux](knowbase#linux)
+- [Работа с базой знаний](#user-content-Работа-с-базой-знаний)
+	- [Форматирование текста](#user-content-Форматирование-текста)
+- [Git](#git)
+- [PhpStorm](#phpstorm)
+- [JavaScript](#javascript)
+	- [jQuery](#jquery)
+- [Php](#php)
+- [Проектирование](#user-content-Проектирование)
+- [1С-Битрикс](#user-content-1С-Битрикс)
+- [Zend Framework 2](#zend-framework-2)
+- [Linux](#linux)
 
 ## Работа с базой знаний
 

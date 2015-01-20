@@ -10,6 +10,7 @@
 - [JavaScript](#javascript)
 	- [jQuery](#jquery)
 - [Php](#php)
+- [Программирование](#user-content-Программирование)
 - [Проектирование](#user-content-Проектирование)
 - [1С-Битрикс](#user-content-1С-Битрикс)
 - [Zend Framework 2](#zend-framework-2)
@@ -49,6 +50,9 @@
 - [petrgrishin/url-builder](https://github.com/petrgrishin/url-builder) - конструктор ссылок
 - [petrgrishin/array-access](https://github.com/petrgrishin/array-access) - работа с массивами в объектно-ориентированном стиле
 - [sokolovsky/Verifier](https://github.com/sokolovsky/Verifier) - валидация полей в объектно-ориентированном стиле
+
+## Программирование
+- [Регулярные выражения](media/regexp.pdf)
 
 ## Проектирование
 - [Где реализовать знание об адресах контроллера?](http://habrahabr.ru/post/226237/)

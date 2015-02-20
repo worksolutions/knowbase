@@ -47,6 +47,7 @@
 
 ## Php
 - [Composer](http://habrahabr.ru/post/145946/) - менеджер зависимостей для PHP
+- [petrgrishin/pipe](https://github.com/petrgrishin/pipe) - помошник для интеграции Middleware в ваш проект
 - [petrgrishin/url-builder](https://github.com/petrgrishin/url-builder) - конструктор ссылок
 - [petrgrishin/array-access](https://github.com/petrgrishin/array-access) - работа с массивами в объектно-ориентированном стиле
 - [sokolovsky/Verifier](https://github.com/sokolovsky/Verifier) - валидация полей в объектно-ориентированном стиле

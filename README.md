@@ -51,6 +51,7 @@
 - [petrgrishin/url-builder](https://github.com/petrgrishin/url-builder) - конструктор ссылок
 - [petrgrishin/array-access](https://github.com/petrgrishin/array-access) - работа с массивами в объектно-ориентированном стиле
 - [sokolovsky/Verifier](https://github.com/sokolovsky/Verifier) - валидация полей в объектно-ориентированном стиле
+- [petrgrishin/create-matrix](https://github.com/petrgrishin/create-matrix) - создание матриц на основе вариантов значений
 
 ## Программирование
 - [Регулярные выражения](media/regexp.pdf)

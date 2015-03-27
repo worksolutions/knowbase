@@ -50,8 +50,10 @@
 - [petrgrishin/pipe](https://github.com/petrgrishin/pipe) - помошник для интеграции Middleware в ваш проект
 - [petrgrishin/url-builder](https://github.com/petrgrishin/url-builder) - конструктор ссылок
 - [petrgrishin/array-access](https://github.com/petrgrishin/array-access) - работа с массивами в объектно-ориентированном стиле
+- [petrgrishin/array-map](https://github.com/petrgrishin/array-map) - манипулирование с элементами массива в объектно-ориентированном стиле
 - [sokolovsky/Verifier](https://github.com/sokolovsky/Verifier) - валидация полей в объектно-ориентированном стиле
 - [petrgrishin/create-matrix](https://github.com/petrgrishin/create-matrix) - создание матриц на основе вариантов значений
+- [petrgrishin/parallel-unit-test](https://github.com/petrgrishin/parallel-unit-test/) - реализация и выполнение unit тестирования параллельного выполнения кода
 
 ## Программирование
 - [Регулярные выражения](media/regexp.pdf)

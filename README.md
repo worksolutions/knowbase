@@ -15,6 +15,7 @@
 - [1С-Битрикс](#user-content-1С-Битрикс)
 - [Zend Framework 2](#zend-framework-2)
 - [Linux](#linux)
+- [Часто задаваемые вопросы](articles/Faq/README.md)
 
 ## Работа с базой знаний
 

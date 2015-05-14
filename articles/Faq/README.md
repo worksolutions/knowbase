@@ -14,8 +14,20 @@ fatal: Out of memory, malloc failed (tried to allocate 7934514 bytes)
 error: failed to push some refs to '...'
 ```
 
-Решение:
+**Решение**:
 
 ```sh
 git config pack.threads 1
+```
+
+###### 1.2. Как посмотреть историю изменений файла с помощью команд git?
+
+**Ответ**:
+
+```sh
+git log -p имя_файла
+
+# или
+
+git blame имя_файла
 ```

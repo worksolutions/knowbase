@@ -71,6 +71,7 @@
 - [WS Tools](https://github.com/worksolutions/bitrix-module-tools/) - набор инструментов поддержки проектов
 - [Свойство "Привязка к разделам инфоблока в новом окне"](articles/Bitrix/Свойство - привязка к разделам инфоблока в новом окне/README.md)
 - [Настройка прав доступа для контент менеджера](articles/Bitrix/Настройка прав для контент менеджера/README.md)
+- [Заготовка компонента для парсинга CSV](https://github.com/worksolutions/bitrix-component-csv-parser)
 
 ## Zend Framework 2
 - [Подключение DoctrineORM к ZF2](http://marco-pivetta.com/doctrine-orm-zf2-tutorial/) - презентация

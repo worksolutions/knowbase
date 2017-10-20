@@ -35,8 +35,8 @@
 ## PhpStorm
 - [Эффективное использование PhpStorm](https://docs.google.com/presentation/d/1jWt3zD64y-HjEJUDtnCJz8f7npZIE8JZ0Dj-arTS9Ks/edit#slide=id.g180ed61f7_0139) - презентация-обзор возможностей PhpStorm (mac)
 - [Эффективное использование PhpStorm](http://goo.gl/gZfTqp) - презентация-обзор возможностей PhpStorm (win+linux)
-- [Как создавать шаблоны кода](articles/PhpStorm/Как создавать шаблоны кода/README.md)
-- [Шаблоны кода для работы с 1С-Битрикс](articles/PhpStorm/Шаблоны кода для работы с 1С-Битрикс/README.md)
+- [Как создавать шаблоны кода](articles/PhpStorm/Как%20создавать%20шаблоны%20кода/README.md)
+- [Шаблоны кода для работы с 1С-Битрикс](articles/PhpStorm/Шаблоны%20кода%20для%20работы%20с%201С-Битрикс/README.md)
 - [Прохождение PHPUnit тестов на удаленном сервере через SSH c PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Running+PHPUnit+tests+over+SSH+on+a+remote+server+with+PhpStorm)
 
 ## JavaScript
@@ -69,8 +69,8 @@
 ## 1С-Битрикс
 - [Модуль миграций](https://github.com/worksolutions/bitrix-module-migrations/blob/master/README.md)
 - [WS Tools](https://github.com/worksolutions/bitrix-module-tools/) - набор инструментов поддержки проектов
-- [Свойство "Привязка к разделам инфоблока в новом окне"](articles/Bitrix/Свойство - привязка к разделам инфоблока в новом окне/README.md)
-- [Настройка прав доступа для контент менеджера](articles/Bitrix/Настройка прав для контент менеджера/README.md)
+- [Свойство "Привязка к разделам инфоблока в новом окне"](articles/Bitrix/Свойство%20-%20привязка%20к%20разделам%20инфоблока%20в%20новом%20окне/README.md)
+- [Настройка прав доступа для контент менеджера](articles/Bitrix/Настройка%20прав%20для%20контент%20менеджера/README.md)
 - [Заготовка компонента для парсинга CSV](https://github.com/worksolutions/bitrix-component-csv-parser)
 
 ## Zend Framework 2

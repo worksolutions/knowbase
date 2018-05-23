@@ -38,6 +38,7 @@
 - [Как создавать шаблоны кода](articles/PhpStorm/Как%20создавать%20шаблоны%20кода/README.md)
 - [Шаблоны кода для работы с 1С-Битрикс](articles/PhpStorm/Шаблоны%20кода%20для%20работы%20с%201С-Битрикс/README.md)
 - [Прохождение PHPUnit тестов на удаленном сервере через SSH c PhpStorm](http://confluence.jetbrains.com/display/PhpStorm/Running+PHPUnit+tests+over+SSH+on+a+remote+server+with+PhpStorm)
+- [Настройка xdebug](articles/PhpStorm/Xdebug/README.md)
 
 ## JavaScript
 - [JavaScript Гарден](http://shamansir.github.io/JavaScript-Garden/) - документация по самым заковыристым темам языка JavaScript
